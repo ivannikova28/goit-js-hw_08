@@ -13,8 +13,6 @@ const ulGallary = document.querySelector(".gallery");
 
 renderGallery(galleryItems)
 
-
-
 function renderGallery(arr) {
     // console.log(arr)
 
